@@ -1,0 +1,1 @@
+This is the first project in TOP's curriculum. I will use all the html i have learned so far to create a very brutalist recipe website. Hopefully the food will taste better than the website will look
