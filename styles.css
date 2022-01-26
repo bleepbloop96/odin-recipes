@@ -1,0 +1,54 @@
+body{
+    background-color: red;
+}
+
+.list{
+    width: 100%;
+}
+
+h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 150px;
+    color: white;
+}
+
+ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: papayawhip;
+
+}
+a:hover{
+    font-size: 120px;
+    color: blue
+
+}
+
+.listmargin{
+    padding-top: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    margin: 10px 10px 10px 10px;
+}
+
+.japcurry{
+    text-align: left;
+}
+
+.cubano{
+    text-align: right;
+}
+
+.soup{
+    text-align: left;
+}
